@@ -51,19 +51,6 @@ netflix-clone/
 ├── package.json
 └── README.md
 
-````
-
----
-
-## 📷 Screenshots
-
-> Replace with your own screenshots
-
-| Home Page | Movie Rows |
-|-----------|------------|
-| ![Home](./screenshots/home.png) | ![Row](./screenshots/row.png) |
-
----
 
 ## 🔧 Installation & Setup
 
