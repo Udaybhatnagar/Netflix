@@ -70,7 +70,7 @@ netflix-clone/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+https://github.com/Udaybhatnagar/Netflix/
 cd netflix-clone
 ````
 
@@ -102,7 +102,7 @@ npm start
 
 > Replace this with your actual deployment link
 
-🔗 [Click here to view the live project](https://your-deployment-link.com)
+🔗 [Click here to view the live project](https://netflix-gnky.onrender.com/)
 
 ---
 
