@@ -86,12 +86,7 @@ npm start
 ---
 
 ## 🌐 Live Demo
-
-> Replace this with your actual deployment link
-
 🔗 [Click here to view the live project](https://netflix-gnky.onrender.com/)
-
----
 
 ## 🧑‍💻 Developer
 
@@ -103,13 +98,10 @@ npm start
 🔗 [GitHub](https://github.com/Udaybhatnagar)
 🔗 [Twitter](https://x.com/bhatnagaruday1?s=21)
 
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
----
 
 ## 🙏 Acknowledgements
 
