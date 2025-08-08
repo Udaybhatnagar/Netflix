@@ -1,4 +1,4 @@
-
+live link:-https://netflix-gnky.onrender.com/
 # 🎬 Netflix Clone – React.js + TMDB API
 
 A high-quality, responsive **Netflix Clone** web application built with **React.js** and **Tailwind CSS**, integrated with **The Movie Database (TMDB) API** to fetch real-time movie content. This project replicates the core features of Netflix's UI/UX, optimized for performance and usability.
